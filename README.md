@@ -1,2 +1,2 @@
 # NifSkopeHelpDocs
-Repo for the html help documents use by NifSkope
+Repo for the html help documents used by NifSkope.
